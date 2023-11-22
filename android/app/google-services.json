@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "65370469419",
+    "project_id": "orkiosk-d6305",
+    "storage_bucket": "orkiosk-d6305.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65370469419:android:b05eda38a088e55a7ae66e",
+        "android_client_info": {
+          "package_name": "com.example.taxi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuquJ7aTjxT9hmO3lztUVjVnFdl6LXxc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65370469419:android:03b0eff206a179b37ae66e",
+        "android_client_info": {
+          "package_name": "com.orkiosk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuquJ7aTjxT9hmO3lztUVjVnFdl6LXxc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
